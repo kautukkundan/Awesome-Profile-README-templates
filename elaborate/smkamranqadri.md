@@ -20,4 +20,4 @@ I am Kamran Qadri - Nomad Software Engineer with the experience of 8 years plus 
 - [First Contribution](https://github.com/devncode/first-contributions) - a beginner-friendly repo for first time contribution
 
 ---
-⭐️ From https://github.com/smkamranqadri/
+⭐️ From [smkamranqadri](https://github.com/smkamranqadri)
