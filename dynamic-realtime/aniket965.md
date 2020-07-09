@@ -10,4 +10,4 @@
 
 ➡️ Some ideas on how this dynamic profile images can be used are in this [thread](https://twitter.com/aniket965as/status/1281258001731485696)
 ### More Ideas?  Contact Twitter - [@aniket965as](https://twitter.com/aniket965as)
-```⭐️ From [aniket965](https://github.com/[aniket965])```
+⭐️ From [aniket965](https://github.com/aniket965)
