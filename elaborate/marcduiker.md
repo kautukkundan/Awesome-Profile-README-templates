@@ -50,4 +50,4 @@ I've given this workshop several times, both as in-person classroom training as 
 - LinkedIn: [linkedin.com/in/mduiker](https://www.linkedin.com/in/mduiker/)
 
 ---
-⭐️ From https://github.com/marcduiker
+⭐️ From [marcduiker](https://github.com/marcduiker)

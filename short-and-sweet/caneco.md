@@ -13,4 +13,4 @@
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
 ---
-⭐️ From https://github.com/caneco
+⭐️ From [caneco](https://github.com/caneco)

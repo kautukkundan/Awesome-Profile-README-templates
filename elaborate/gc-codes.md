@@ -27,4 +27,4 @@ Talk to me about
 - Blog - [GC Codes](https://gc-codes.com)
 
 ---
-⭐️ From https://github.com/gc-codes
+⭐️ From [gc-codes](https://github.com/gc-codes)

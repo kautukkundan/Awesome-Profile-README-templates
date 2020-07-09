@@ -28,4 +28,4 @@ I am a 21 year old engineer from Delhi, India and I'm passionate about technolog
 - 🕵️‍♂️ More ways to connect: [plu.us/manbir](https://plu.us/manbir)
 
 ---
-⭐️ from https://github.com/marwahmanbir
+⭐️ From [marwahmanbir](https://github.com/marwahmanbir)
