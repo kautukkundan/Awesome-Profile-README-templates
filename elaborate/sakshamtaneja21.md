@@ -4,13 +4,13 @@
 ---
 
 ## Hi there 👋,           
-I'm Saksham Taneja, Student at 👨‍💻 JECRC University Pursuing BCA.  I am a tech and management enthusiasts, Would love to be a cloud evangelist and see myself as a Product / Program Manager in my later carrier.  
+I'm Saksham Taneja, Student at 👨‍💻 JECRC University Pursuing BCA.  I am a tech and management enthusiast. Would love to be a cloud evangelist and see myself as a Product / Program Manager in my later career.  
 
 ## 🧐 About
 - 🏄‍ Community guy who loves being involved in communities and help students grow
 - 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organiser
 - 🔭 I am currently an MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex-Google DSC Lead and been a part of many communities and programs by a big force
-- 🌱 I love to speak at public events and been a speaker at many events. I organise Workshops, Webinars etc to help student Community
+- 🌱 I love to speak at public events and have been a speaker at many events. I organise Workshops, Webinars etc to help student Community
 - 👯 And Many More...
 
 # Hello World!! 🤔
