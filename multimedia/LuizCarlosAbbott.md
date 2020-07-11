@@ -51,4 +51,4 @@
 
 ---
 
-`⭐️ From [LuizCarlosAbbott](https://github.com/[LuizCarlosAbbott])`
+⭐️ From [LuizCarlosAbbott](https://github.com/[LuizCarlosAbbott])
