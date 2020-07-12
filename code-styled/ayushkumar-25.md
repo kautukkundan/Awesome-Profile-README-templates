@@ -8,8 +8,8 @@
 https://carbon.now.sh/ -->
 
 ## About Me:
-Always curious to learn cutting edge technology. A bit enthusiast towards web development. Competitive coding and motor sports boost my adrenaline. <br>
-Here is my [Resume](https://drive.google.com/file/d/1rze3ob-AbIvtzk34nXXwQv3cYj9N76mS/view?usp=sharing). <br> <br>
+Always curious to learn cutting edge technology. A bit enthusiast towards web development. Competitive coding and motor sports boost my adrenaline. <br> <br>
+
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ---
