@@ -24,7 +24,7 @@ Talk to me about
 - Creating scalable cloud architecture using **AWS Cloud**
 - Solving Data structure and algorithm questions in **Java and Python**
 ## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
+- 💬 Ask me about anything and everything.
 - 📫 Read my blogs: [Harsh Blog](https://harshblog.xyz)
 - 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html)
 - 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw)
