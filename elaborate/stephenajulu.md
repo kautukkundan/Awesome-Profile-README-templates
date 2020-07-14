@@ -43,4 +43,4 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Additional Ways](https://stephenajulu.com/links) 🔗🔗
 - [Sign up for my newsletter](https://ajulusthoughts.substack.com) 💌
 
-### From [Stephen Ajulu's Github Profile Readme MD](https://github.com/stephenajulu/stephenajulu)
+#### From [Stephen Ajulu's Github Profile Readme MD](https://github.com/stephenajulu/stephenajulu)
