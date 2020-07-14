@@ -18,7 +18,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 </p>
 
 ### Where am currently working at/as
-- [OwlSec Technologies: Founder](https://owlsectechnologies.co.ke) 💼 
+- [OwlSec Technologies: Founder and Consultant](https://owlsectechnologies.co.ke) 💼 
 - [Open World: Freelance](https://stephenajulu.com)
 
 ### What am currently working on
@@ -43,4 +43,4 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Additional Ways](https://stephenajulu.com/links) 🔗🔗
 - [Sign up for my newsletter](https://ajulusthoughts.substack.com) 💌
 
-#### From [Stephen Ajulu's Github Profile Readme MD](https://github.com/stephenajulu/stephenajulu)
+<h4 align="center">From <a href="https://github.com/stephenajulu/stephenajulu"> Stephen Ajulu's Github Profile Readme MD</a></h4>
