@@ -1,4 +1,4 @@
-## [![stephen ajulu's header](https://github.com/stephenajulu/stephenajulu/blob/master/My%20Post%20Copy%20new.png)](https://stephenajulu.com)
+## [![stephen ajulu's header](https://github.com/stephenajulu/stephenajulu/blob/master/edited%20header.png)](https://stephenajulu.com)
 
 <p align='center'>
 <a href="https://dev.to/stephenajulu"><img height="30" src="https://raw.githubusercontent.com/stephenajulu/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
