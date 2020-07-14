@@ -30,6 +30,6 @@
 </p>
 
 ####  Have knowledge and experience in App Dev through flutter and react native.
-####  I'm a Blockchain enthusiast and love to build decentralised applications. I have a experience and quite good skill set in Python, C and C++.  
+####  I'm a Blockchain enthusiast and love to build decentralised applications. I have a experience and quite good skill set in Python, C and C++. 
 
-
+#### from user [auralshin](https://github.com/auralshin)
