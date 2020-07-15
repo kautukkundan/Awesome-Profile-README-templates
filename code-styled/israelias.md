@@ -45,3 +45,6 @@ class ReadMe:
 
 me = ReadMe(2020)
 ```
+
+---
+⭐️ From [israelias](https://github.com/israelias)
