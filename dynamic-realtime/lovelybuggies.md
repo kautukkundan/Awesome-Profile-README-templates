@@ -34,3 +34,5 @@ Hi, I'm N!no 😉, a programmer 👨🏻‍💻 from China 🇨🇳. I'm an open
 - 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1mr_yoVcBn6QolFWAOXSJzxQYvO7ShjNu/view?ths=true) to get more info.
 
 ![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=lovelybuggies&show_icons=true&hide_border=true)
+
+⭐️ From [LovelyBuggies](https://github.com/lovelybuggies)
