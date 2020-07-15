@@ -49,3 +49,5 @@ I am experienced on all phases of the product cycle: idea, concept and  design, 
 
 ## Just before you go...
 [Connect with me on LinkedIn](https://gr.linkedin.com/in/elitriant) -- [See my experiments on Codepen](https://codepen.io/elisavetTriant/)
+
+`⭐️ From [elisavetTriant](https://github.com/elisavetTriant)`
