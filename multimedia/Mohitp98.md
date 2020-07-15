@@ -48,6 +48,11 @@ Software Engineer at <a href="https://www.gslab.com/" target="_blank"><b>GS Lab<
 [![Twitter: Mohit Patil](https://img.shields.io/twitter/follow/MP_1298?style=social)](https://twitter.com/MP_1298)
 [![GitHub: Mohit Patil](https://img.shields.io/github/followers/Mohitp98?label=Mohitp98&style=social)](https://github.com/Mohitp98)
 
-</div>
-  
+<div align="center">
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Mohitp98.visitor-badge)
+
+</div>  
+
+
+⭐️ From [Mohitp98](https://github.com/Mohitp98)
