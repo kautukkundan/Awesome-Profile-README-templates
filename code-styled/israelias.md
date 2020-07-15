@@ -11,7 +11,7 @@ class ReadMe:
         self.employment = {
             'developer': ['company', 'city'],
             'architect': ['Foster + Partners', ['Singapore', 'New York']],
-            'designer': ['Herzog & de Meuron', ['New York', 'Basel']],
+            'designer': ['Herzog & de Meuron', ['New York', 'Basel']]
         }
 
     def doing(self, now=2020):
