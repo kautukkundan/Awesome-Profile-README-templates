@@ -90,4 +90,4 @@ Sadie-lang Discord:
 
 ---
 
- `⭐️ From [munific](https://github.com/munific)`
+ ⭐️ From [munific](https://github.com/munific)
