@@ -49,6 +49,6 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
 </br>
 </br>
 
-### Made with ❤️ by [Pratham31](https://github.com/Pratham31)
+### ⭐️ From [Pratham31](https://github.com/Pratham31)
  
 
