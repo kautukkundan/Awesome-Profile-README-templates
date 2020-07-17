@@ -87,3 +87,7 @@ I have achieved:
 Sadie-lang Discord:
 
 ![Discord](https://img.shields.io/discord/731577337686130858?label=Join%20The%20DIscord%21&logo=Sadie%20Lang&style=for-the-badge)
+
+---
+
+ `⭐️ From [munific](https://github.com/munific)`
