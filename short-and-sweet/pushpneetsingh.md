@@ -16,4 +16,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=PushpneetSingh.PushpneetSingh)
 
-```⭐️ From [PushpneetSingh](https://github.com/PushpneetSingh)```
+---
+
+⭐️ From [PushpneetSingh](https://github.com/PushpneetSingh)
