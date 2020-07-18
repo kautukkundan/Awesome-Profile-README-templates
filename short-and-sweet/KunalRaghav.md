@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](mailto:kraghav123@gmail.com)
 
 ## Hi 👋, 
-I'm Kunal Raghav, I'm a software engineer 👨‍💻 who is passionate about mobile technologies and open source. I'm also a self procliamed graphic designer and internet surfer 
+I'm Kunal Raghav, I'm a software engineer 👨‍💻 who is passionate about mobile technologies and open source. I'm also a self proclaimed graphic designer and internet surfer 
 🏄‍♂️. 
 
 - 🔭 I’m currently working on Android Apps
