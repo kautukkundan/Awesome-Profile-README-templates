@@ -19,3 +19,4 @@ My Tech Stacks
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.svg" alt="stacks"/>
 </h3>
+⭐️ From [akasrai](https://github.com/[akasrai])`
