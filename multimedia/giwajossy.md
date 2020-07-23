@@ -11,21 +11,14 @@ I acknowledge every human’s uniqueness. This helps me develop workable and pra
 - 🔭 I’m currently working on a research exploring the psychology of fashion; what people wear, and how it affects mood and energy. Buzz me if you're interested, as i'm looking to collaborate on this. 
 - 📫 How to reach me: giwajossy@gmail.com
 
+---
+⭐️ From [giwajossy](https://github.com/giwajossy)
 
 
 <!--
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on a research exploring the psychology of fashion; what people wear, and how it affects mood and energy.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Keeping this here. will do something with it soon.
 
 
 ALAN WATTS: Most of us think compulsively all the time. That is to say we talk to ourselves. I remember when I was a boy; we had a common saying, “talking to you is the first sign of madness.”
