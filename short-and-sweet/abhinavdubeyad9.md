@@ -1,6 +1,8 @@
-### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="abhinavdubeyad9" /> </p>
+<h1 align="center"> Hello, I'm Abhinav Dubey 👋 </h1>
+<h3 align="center">🚀 fullstack devlover 🚀</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavdubeyad9" alt="abhinavdubeyad9" /> </p>
 
 - 🔭 I’m currently working on TravelGram App
 - 🌱 I’m currently learning Angular & deno
@@ -13,3 +15,5 @@
 
 ## Some Statistics About Me
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinavdubeyad9&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
+
+⭐️ From [abhinavdubeyad9](https://github.com/abhinavdubeyad9)
