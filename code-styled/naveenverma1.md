@@ -4,6 +4,10 @@
 [![](https://img.shields.io/badge/Leetcode-naveenverma-brightgreen)](https://leetcode.com/naveenverma/)
 [![](https://img.shields.io/badge/Gmail-01naveenv%40gmail.com-red)](https://leetcode.com/naveenverma/)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/naveenverma1/count.svg" />
+</p>
 
 
 
