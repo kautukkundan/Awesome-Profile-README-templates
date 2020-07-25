@@ -12,7 +12,7 @@ A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree i
 * Learning editing photos by using Adobe Lighroom,  as well as drawing some vectors in Adobe Illustrator.
 * Inquiring more about UX/UI.  
 * Looking forward to take a Web Development Courses in future besides school curriculum. 
-* 
+* 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
 Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple self-challenges in order to push myself more further. 
@@ -22,7 +22,7 @@ Since the world is in the quarantine stage, and I’m having tremendous of spare
 * Workout 3 days in a row and take a day break 
 * Avoid the over using social media
 * Adapting the minimalism life style
-* 
+* 🔜
 
  
  **Languages and Frameworks:**
@@ -43,7 +43,7 @@ Since the world is in the quarantine stage, and I’m having tremendous of spare
 </p>
 
 
-Do ⭐ my work if you find it interesting, it helps me stay on track and be motivated.
+Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.  
 
 <img src="https://komarev.com/ghpvc/?username=VatanaChhorn" alt="VatanaChhorn" />
 
@@ -55,3 +55,6 @@ Do ⭐ my work if you find it interesting, it helps me stay on track and be moti
 -  Mandragora Estudio **for GIF**. 
 
 https://dribbble.com/shots/9344637-working-hard
+
+⭐️ From [VatanaChhorn](https://github.com/Vatanachhorn)
+
