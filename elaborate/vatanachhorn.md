@@ -11,7 +11,7 @@ A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree i
 * Taking a Swift Online Course in Udemy, and looking forward to contribute to any iOS open source project. 
 * Learning editing photos by using Adobe Lighroom,  as well as drawing some vectors in Adobe Illustrator.
 * Inquiring more about UX/UI.  
-* Looking forward to take a Web Development Courses in future besides school curriculum. 
+* Looking forward to take a Web Development Course in future besides school curriculum. 
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
@@ -21,7 +21,7 @@ Since the world is in the quarantine stage, and I’m having tremendous of spare
 * Read a book a week
 * Workout 3 days in a row and take a day break 
 * Avoid the over using social media
-* Adapting the minimalism life style
+* Adopting the minimalism life style
 * 🔜
 
  
