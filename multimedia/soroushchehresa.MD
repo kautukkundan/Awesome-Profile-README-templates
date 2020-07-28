@@ -13,6 +13,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=soroushchehresa&show_icons=true" />
 <br>
 <br>
+⭐️ From [soroushchehresa](https://github.com/soroushchehresa) 
 </div>
-
- ⭐️ From [soroushchehresa](https://github.com/soroushchehresa) 
