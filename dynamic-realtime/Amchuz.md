@@ -4,7 +4,10 @@
   
 .
   
-  
+
+
+  ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS)
+
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   
 :heart: Programming | :black_heart: K-pop | :blue_heart: Anime
@@ -23,7 +26,7 @@ I am a Final Year Computer Engineering Student at College of Engineering Chengan
 
 ----
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some weekly stats ?
   
 .    
    
@@ -38,6 +41,23 @@ Python      4 hrs 32 mins       █████████░░░░░░░
 HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
 Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
 Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
+```
+<!--END_SECTION:waka-->
+-------
 
+  
+  
+**What I love**
+
+| <img src=https://github.com/Amchuz/Amchuz/blob/master/Coding.png width="85" height="85"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/kpop.png width="85" height="85"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/anime.jpg width="85" height="85"> | 
+| :---: | :---: | :---: |
+| <b>Coding</b> | <b>K-pop</b> | <b>Anime</b> |
+
+  
+**My Favorites** (Trying clicking them, there might be a suprise hidden among them.)
+
+| <img src=https://github.com/Amchuz/Amchuz/blob/master/python.jpg width="85" height="85"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/bts.jpg width="85" height="85"> | <img src=https://github.com/Amchuz/Amchuz/blob/master/snsd.jpg width="85" height="85"> | <a href="https://www.youtube.com/watch?v=7C2z4GqqS5E" target="_blank"><img src=https://github.com/Amchuz/Amchuz/blob/master/fake.jpg width="85" height="85"></a> | <img src=https://github.com/Amchuz/Amchuz/blob/master/fairy.jpg width="85" height="85"> | <a href="https://www.youtube.com/watch?v=IcseamG7ReY" target="_blank"><img src=https://github.com/Amchuz/Amchuz/blob/master/wind.jpg width="85" height="85"></a> | 
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <b>Favorite Language - Python </b> | <b>K-pop Boy Group - BTS</b> | <b>K-pop Girl Group - SNSD </b> | <b>K-pop song - BTS Fake Love</b> | <b>Anime - Fairy Tail</b> | <b>Anime OST - Naruto Wind</b> | 
 
 ⭐️ From [@Amchuz](https://github.com/Amchuz)
