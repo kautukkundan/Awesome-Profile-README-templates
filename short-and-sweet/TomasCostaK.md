@@ -38,6 +38,6 @@
 <!-- Optional Visitors badge: -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TomasCostaK.TomasCostaK)
 
+⭐️ From [TomasCostaK](https://github.com/TomasCostaK/TomasCostaK) 
 
-Template credit to: https://github.com/kautukkundan/Awesome-Profile-README-templates
 <br />
