@@ -29,3 +29,5 @@ class Social(metaclass=Meta):
     twitter     : str = "rednafi"
     linkedin    : str = "redowan"
 ```
+
+⭐️ From [rednafi](https://github.com/rednafi)
