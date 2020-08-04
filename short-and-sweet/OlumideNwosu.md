@@ -20,6 +20,8 @@
 
 ![Profile views](https://gpvc.arturio.dev/olumidayy)
 
+⭐️ From [olumidayy](https://github.com/olumidayy)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
