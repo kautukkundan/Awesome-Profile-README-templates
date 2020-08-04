@@ -31,9 +31,18 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 </h4>
 </div>
 
-<br />
+<div><p>My profile overview: </p></div>
 
-<div><p>The projects I am currently working on: </p></div>
+![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true)
+<br />
+<br />
+<br />
+<details>
+<summary>
+  Projects I am currently working on
+</summary>
+
+<br />
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ApurvShah007&repo=Algorithmic-Trading)](https://github.com/ApurvShah007/Algorithmic_trading)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Apurvshah007&repo=portfolio-optimizer)](https://github.com/ApurvShah007/portfolio-optimizer)
@@ -42,17 +51,11 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 
 <br />
 
-<div><p>My profile overview: </p></div>
-
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true)
-<br />
-<br />
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-<br />
-<br />
+</details>
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
 
 
 Leave a ⭐️ if you like this template and want to modify it for yourself!
