@@ -8,18 +8,17 @@ A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree i
 
 ### 💼  Things that I'm currently working on: 
 * Doing bachelor's degree in Software Engineering
-* Taking a Swift Online Course in Udemy, and looking forward to contribute to any iOS open source project. 
+* Taking a Swift Online Course, and looking forward to contribute to any iOS open source project. 
 * Learning editing photos by using Adobe Lighroom,  as well as drawing some vectors in Adobe Illustrator.
 * Inquiring more about UX/UI.  
 * Looking forward to take a Web Development Course in future besides school curriculum. 
 * 🔜
 
 ### 🌱 Challenges that I’m currently challenging myself:
-Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple self-challenges in order to push myself more further. 
+Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. 
 
-* Learn to code 6-9 hours a day with no distraction ( One or two day off a week. ) 
+* Learn to code 3-4 hours a day with no distraction ( One or two day off a week. ) 
 * Read a book a week
-* Workout 3 days in a row and take a day break 
 * Avoid the over using social media
 * Adopting the minimalism life style
 * 🔜
@@ -46,8 +45,10 @@ Since the world is in the quarantine stage, and I’m having tremendous of spare
 Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.  
 
 <img src="https://komarev.com/ghpvc/?username=VatanaChhorn" alt="VatanaChhorn" />
-
-![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=vatanachhorn&show_icons=true)
+ 
+![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=vatanachhorn&show_icons=true&theme=dracula)
+&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatanachhorn&theme=dracula)
 
 ---
 
@@ -55,6 +56,7 @@ Do ⭐ my repository if you find my project interesting, at least your star coul
 -  Mandragora Estudio **for GIF**. 
 
 https://dribbble.com/shots/9344637-working-hard
+
 
 ⭐️ From [VatanaChhorn](https://github.com/Vatanachhorn)
 
