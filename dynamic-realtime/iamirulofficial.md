@@ -32,3 +32,9 @@
 <p align="center">
   Made with :heart: &nbsp;using GitHub Markdown
 </p>
+
+⭐️ From [iamirulofficial](https://github.com/iamirulofficial)
+
+<br/>
+
+This readme is inspired from [Quadrified](https://github.com/Quadrified)
