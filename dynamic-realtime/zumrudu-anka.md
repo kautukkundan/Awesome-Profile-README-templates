@@ -74,4 +74,6 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h4 align="center"><a href=https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
-⭐️ From [zumrudu-anka](https://github.com/zumrudu-anka)
+<p align = "center">
+    ⭐️ From <a href="https://github.com/zumrudu-anka/">zumrudu-anka</a>
+</p>
