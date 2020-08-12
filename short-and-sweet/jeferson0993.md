@@ -39,3 +39,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeferson0993&show_icons=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jeferson0993&color=blue)
+
+---
+
+From [jeferson0993](https://github.com/jeferson0993)
