@@ -73,9 +73,21 @@
 
 ### 📈 Github Stats
 
-<img align="left" alt="shettykaran21's Github Stats" src="https://github-readme-stats.shettykaran21.vercel.app/api?username=shettykaran21&show_icons=true&hide_border=true&title_color=79b8ff&bg_color=24292e&text_color=79b8ff&hide=stars,issues"/>
+<div>
+  <img align="left" alt="shettykaran21's Github Stats" src="https://github-readme-stats.shettykaran21.vercel.app/api?username=shettykaran21&show_icons=true&hide_border=true&title_color=79b8ff&bg_color=24292e&text_color=79b8ff&hide=stars,issues"/>
+</div>
 
 <br />
 
 [linkedin]: https://linkedin.com/in/shettykaran21
 [twitter]: https://twitter.com/shettykaran21
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+⭐️From [shettykaran21](https://github.com/shettykaran21)
