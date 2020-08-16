@@ -49,7 +49,7 @@ Software Developer based in Bangalore, India. ML and Cloud Enthusiast and an Exp
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
 
-[Sourcerer](https://sourcerer.io/souravdey777)
+Check for a detailed stat :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
 
 ---
 
@@ -76,6 +76,10 @@ Software Developer based in Bangalore, India. ML and Cloud Enthusiast and an Exp
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
+
+Made with :heart: by [Souravdey777](https://github.com/Souravdey777)
+
+:star: the repo [Souravdey777 profile](https://github.com/Souravdey777/Souravdey777)
 
 [website]: https://souravdey777.github.io/Portfolio/
 [twitter]: https://twitter.com/Souravdey777
