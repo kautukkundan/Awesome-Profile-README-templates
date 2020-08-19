@@ -46,7 +46,8 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatYu26&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatYu26&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+
 
 <br>
 
@@ -80,6 +81,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#280](https://github.com//kautukkundan/Awesome-Profile-README-templates/pull/280) in [kautukkundan/Awesome-Profile-README-templates](https://github.com//kautukkundan/Awesome-Profile-README-templates)
+<!--END_SECTION:activity-->
 
 
 
@@ -96,4 +99,5 @@
 <!--  Acknowledgement: https://github.com/anuraghazra/github-readme-stats -->
 
 
-⭐️ From [SatYu26](https://github.com/SatYu26)
+
+## ⭐️ From [SatYu26](https://github.com/SatYu26)
