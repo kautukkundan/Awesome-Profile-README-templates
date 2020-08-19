@@ -77,20 +77,6 @@
 
 <br><br>
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#280](https://github.com//kautukkundan/Awesome-Profile-README-templates/pull/280) in [kautukkundan/Awesome-Profile-README-templates](https://github.com//kautukkundan/Awesome-Profile-README-templates)
-<!--END_SECTION:activity-->
-
-
-
-</details>
-
-
-<br>
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SatYu26)
 <!-- ![visitors](https://badges.pufler.dev/visits/SatYu26/SatYu26)
 ![Visitor Count](https://profile-counter.glitch.me/SatYu26/count.svg) -->
