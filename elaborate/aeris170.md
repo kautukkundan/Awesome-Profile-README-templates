@@ -84,4 +84,4 @@ You can e-mail me directly, get in touch through the account(s) below!
 
 </div>
 
-Don't forget to leave a ⭐ if you found this useful.
+⭐ From [aeris170](https://github.com/aeris170)
