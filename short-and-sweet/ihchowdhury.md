@@ -22,3 +22,5 @@ Soft Skills:
 - Problem Solving, TeamWork, Communication 
 
 ![Ibrahim's github stats](https://github-readme-stats.vercel.app/api?username=IhChowdhury&show_icons=true&theme=radical)
+
+⭐️ From ihchowdhury(https://github.com/ihchowdhury)
