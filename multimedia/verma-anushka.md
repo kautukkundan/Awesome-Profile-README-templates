@@ -2,8 +2,8 @@
 
 I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), I'm an experienced full stack web developer and technical writer a demonstrated history of working in the information technology and services industry.
 
- ---
- 
+---
+
 **Currently I am working ...**
 
 - <div>
@@ -14,17 +14,17 @@ I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), I'm an exper
     <br /> 
     <br /> 
   </div>
-  
-- <div>
-    <img width="250" height="100" align='right' src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/images/gfg.png" >
-    ... as a <strong>Technical Content Writer</strong> intern at Geeks for Geeks where I have penned down 20+ comprehensive and detailed articles covering multiple programming languages and Data Structures & Algorithms concepts.
-    <br />
-    <strong>View: </strong> <a href="https://auth.geeksforgeeks.org/user/verma_anushka/articles" >Geeks for Geeks</a> 
-    <br /> 
-  </div> 
 
- ---
- 
+- <div>
+     <img width="250" height="100" align='right' src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/images/gfg.png" >
+     ... as a <strong>Technical Content Writer</strong> intern at Geeks for Geeks where I have penned down 20+ comprehensive and detailed articles covering multiple programming languages and Data Structures & Algorithms concepts.
+     <br />
+     <strong>View: </strong> <a href="https://auth.geeksforgeeks.org/user/verma_anushka/articles" >Geeks for Geeks</a> 
+     <br /> 
+   </div>
+
+  ***
+
 **Languages and Tools:**
 
 <p align="center">
@@ -36,8 +36,8 @@ I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), I'm an exper
   </div>
   </p>
 
- ---
- 
+---
+
 **Github Stats:**
 
 <p align="center">
@@ -47,8 +47,8 @@ I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), I'm an exper
 
 </p>
 
- ---
- 
+---
+
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
   
@@ -61,9 +61,11 @@ I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), I'm an exper
    [![GeeksforGeeks Badge](https://img.shields.io/badge/-verma_anushka-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/verma_anushka/articles)](https://auth.geeksforgeeks.org/user/verma_anushka/articles)
 
    <!-- [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa)  -->
-   
+
   <p align="center">
     Show ❤️ by starring repositories you find good! 
+    <br />
+    ⭐️ From [Anushka Verma](https://github.com/verma-anushka)
     <br />
     Also, star and fork this repository if you wish to give this new feature a try!
   </p>
