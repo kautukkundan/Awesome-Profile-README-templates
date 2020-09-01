@@ -126,8 +126,5 @@
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
 
-
-
-<br>
-<br>
+⭐️ From [Shreya549](https://github.com/Shreya549)
 
