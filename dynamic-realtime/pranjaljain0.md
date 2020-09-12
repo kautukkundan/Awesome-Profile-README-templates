@@ -38,4 +38,4 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pranjaljain0.pranjaljain0)
 
-⭐️ From pranjaljain0(https://github.com/pranjaljain0)
+⭐️ From [pranjaljain0](https://github.com/pranjaljain0)
