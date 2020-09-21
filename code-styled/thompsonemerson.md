@@ -18,3 +18,5 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
 }
 ```
+
+⭐️ From [thompsonemerson](https://github.com/thompsonemerson)
