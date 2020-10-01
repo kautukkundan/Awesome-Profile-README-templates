@@ -35,8 +35,9 @@ programming-languages = [
   'go',
 ]
 
-
 ```
+
+You can find my blog at https://reisub0.github.io.
 
 I'm always interested in meeting new people, so feel free to reach out to me using the links below.
 
@@ -53,4 +54,4 @@ I'm always interested in meeting new people, so feel free to reach out to me usi
 
 
 
-⭐️ From [reisub0](https://github.com/[reisub0])
+⭐️ From [reisub0](https://github.com/reisub0)
