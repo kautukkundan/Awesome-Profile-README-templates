@@ -28,13 +28,21 @@ Sachin = {
 ```
 <img src="https://media.giphy.com/media/21PccxrfPVOV1lhBAQ/giphy.gif" width="400" align='right'> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=version0chiro&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=version0chiro&hide=jupyter%20notebook&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <em><b>I don't like humans</b> but if you want to say <b>hi, I'll be happy to see you more!</b> :)</em>
 ---
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=version0chiro&show_icons=true&theme=gotham" alt="version0chiro" />
+<p align="center">
+<a href="https://github.com/shravan20">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=version0chiro&theme=algolia#version3" />
+</a>
+</p>
 
 <img align='right' src="https://media.giphy.com/media/6IkjQmpaRwIabJ2G3C/giphy.gif" width="230">
+
+
+
 
 
 ⭐️ From [version0chiro](https://github.com/[version0chiro]
