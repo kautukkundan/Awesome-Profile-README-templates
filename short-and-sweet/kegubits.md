@@ -28,3 +28,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kegubits&show_icons=true&count_private=true&include_all_commits=false&hide_title=true&icon_color=0693E3&hide_border=false)
 
 </div>
+
+<br />
+
+⭐️ From [Kegubits](https://github.com/Kegubits)
