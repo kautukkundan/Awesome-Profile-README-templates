@@ -5,7 +5,7 @@
 ### *Find me on*
 
 
-[<img src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:reeveworkmail@gmail.com) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hi_reeve) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hi-reeve/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/hi_reeve) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/christoper.reeve.5) [<img src ="https://img.shields.io/badge/Website-Creeve.me-blue.svg?&style=for-the-badge">](https://creeve.me/)  ![Visits Badge](https://badges.pufler.dev/visits/zynth17/zynth17?style=for-the-badge) ![Commits Badge](https://badges.pufler.dev/commits/monthly/zynth17?&style=for-the-badge)
+[<img src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:reeveworkmail@gmail.com) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hi_reeve) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hi-reeve/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/hi_reeve) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/christoper.reeve.5) [<img src ="https://img.shields.io/badge/Website-Creeve.me-blue.svg?&style=for-the-badge">](https://creeve.me/)  ![Visits Badge](https://badges.pufler.dev/visits/zynth17/zynth17?style=for-the-badge) ![Commits Badge](https://badges.pufler.dev/commits/monthly/zynth17?style=for-the-badge)
 
 <br/>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -133,6 +133,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynth17&theme=tokyonight&layout=compact" />
 </a>
 <br/><br/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api/wakatime?username=zynth17&theme=tokyonight" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=zynth17&custom_title=My%20Coding%20Stats%20This%20Week" align="center" />
 <br/><br/>
 <img align='center' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" />
