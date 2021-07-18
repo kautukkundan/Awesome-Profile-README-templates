@@ -46,7 +46,7 @@
 
 |Stats  |Languages  |
 |-- | -- |
-|<img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api?username=LuquinhasMoraes&show_icons=true&theme=midnight-purple"/>   |  <img  align="left"  width="370px" src="https://github-readme-stats.vercel.app/api?username=LuquinhasMoraes&show_icons=true&theme=midnight-purple"/>  |
+|<img  align="left"  width="400px" src="https://github-readme-stats.vercel.app/api?username=LuquinhasMoraes&show_icons=true&theme=midnight-purple"/>   | <img  align="left"  width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuquinhasMoraes&layout=compact&hide=shell&theme=midnight-purple"/> |
 
 
 ⭐️ From [LuquinhasMoraes](https://github.com/LuquinhasMoraes)
