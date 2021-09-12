@@ -9,15 +9,15 @@
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{yuebaix}/count.svg" alt="yuebaix :: Visitor's Count" /></p>
 <br/>
-<img align="right" height="220px" src="https://z3.ax1x.com/2021/09/05/hfeVFU.gif" alt="yuebaix" />
+<img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix" />
 
-- 🔭 I’m currently working on [tirnanog](https://github.com/yuebaix/tirnanog)
+- 🔭 I’m currently working on [pangu](https://github.com/yuebaix/pangu)
 - 🌱 I’m currently learning **vue**
 - 👨‍💻 All of my projects are available at [https://github.com/yuebaix](https://github.com/yuebaix)
 - 📝 I regularly write articles on [https://blog.yuebaix.com](https://blog.yuebaix.com)
 - 💬 Ask me about **java**
 - 📫 How to reach me **yuebaix@outlook.com**
-- 📄 Know about my experiences [https://blog.yuebaix.com](https://blog.yuebaix.com)
+- 📄 Know about my experiences [https://blog.yuebaix.com/top/about/](https://blog.yuebaix.com/top/about/)
 - ⚡ Fun fact **I'm familiar with several code languages.ie java,javascript,shell,python,golang,php**
 
 ### 🛠 Tech Stack
