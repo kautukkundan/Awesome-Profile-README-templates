@@ -95,6 +95,5 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
   
 -----
-Credits: [JOSUERV99](https://github.com/JOSUERV99)
-
+⭐️ From [JOSUERV99](https://github.com/JOSUERV99)
 Last Edited on: 06/10/2021
