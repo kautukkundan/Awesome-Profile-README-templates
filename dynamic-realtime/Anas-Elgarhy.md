@@ -130,4 +130,4 @@ Console.WriteLine("Hi there!");
 </details>
 
 <hr>
-<p> ⭐️ From [Anas-Elgarhy](https://github.com/Anas-Elgarhy) </p>
+⭐️ From [Anas-Elgarhy](https://github.com/Anas-Elgarhy)
