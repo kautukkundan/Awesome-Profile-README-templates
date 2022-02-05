@@ -17,3 +17,5 @@ Hi, im daniel4-scratch! ヾ(☆▽☆)<br>
 I like hard-bass ♬♫♪◖(● o ●)◗♪♫♬<br>
 o(≧▽≦)o And im always looking for memes <img src="https://git.io/Doge">
 </p>
+
+⭐️ From [Daniel Barton](https://github.com/daniel4-scratch)
