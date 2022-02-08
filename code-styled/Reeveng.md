@@ -27,6 +27,7 @@ const aboutMe = {
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
+
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
