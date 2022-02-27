@@ -44,3 +44,7 @@
   ![Snake animation](https://github.com/Nahuel61920/Nahuel61920/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+**Check the Repositories and don't forget to give a star.** 👇
+
+:star: From [Nahuel619](https://github.com/Nahuel61920)
