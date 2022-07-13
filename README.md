@@ -9,6 +9,7 @@
   - [Multimedia](multimedia)
   - [Short&sweet](short-and-sweet)
 - [Tutorials](#tutorials)
+  - [Videos](#videos)
 
 ## About 
 The aim of this repository is to collect awesome READMEs that developers around the world are using on their own profiles to act as an inspiration for others.
@@ -20,7 +21,11 @@ Don't forget to leave a ⭐ if you find this repo useful
 Thanks! 🎆
 
 ## Tutorials 
-- codeSTACKr video [link](https://www.youtube.com/watch?v=ECuqb5Tv9qI&t=760s)
-- Codepur video [link](https://www.youtube.com/watch?v=dkE4mVhwMB4)
-- How to add GIFs [link](https://www.youtube.com/watch?v=3RlpVrYt_qE)
-- Video about GitHub Profile README [link](https://twitter.com/github/status/1294348292130836482?s=20)
+### Videos
+- [codeSTACKr](https://www.youtube.com/watch?v=ECuqb5Tv9qI&t=760s)
+- [Codepur](https://www.youtube.com/watch?v=dkE4mVhwMB4)
+- GitHub How to add GIFs [link](https://www.youtube.com/watch?v=3RlpVrYt_qE)
+- GitHub Profile README [link](https://twitter.com/github/status/1294348292130836482?s=20)
+
+### Articles
+- SitePoint [article](https://www.sitepoint.com/github-profile-readme/)
