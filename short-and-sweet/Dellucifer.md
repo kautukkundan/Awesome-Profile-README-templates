@@ -21,4 +21,4 @@
  
  Need help in Getting Started with Cybersecurity, text me on <a href="https://www.linkedin.com/in/priyanshu-choudhary-004270209/">LinkedIN</a> or drop a mail <a href="mailto: pg99285@gmail.com">here</a>.
 
- ⭐️ From [username](https://github.com/dellucifer)
+ ⭐️ From Dellucifer(https://github.com/dellucifer)
