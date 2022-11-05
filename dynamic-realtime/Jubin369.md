@@ -97,4 +97,4 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-⭐️ From [jubin369](https://github.com/[jubin369])
+⭐️ From [jubin369](https://github.com/jubin369)
