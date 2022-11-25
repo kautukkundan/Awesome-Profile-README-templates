@@ -48,3 +48,5 @@ Zaid.sayHello()
 <a href="https://www.linkedin.com/in/zaidsidd69420/" alt="Md Zaid Siddiqui | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
 <a href="https://www.instagram.com/zaidsiddiqui__/" alt="zaidsiddiqui__ | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
 </div>
+
+From [@zaidsidd360](https://github.com/zaidsidd360)
