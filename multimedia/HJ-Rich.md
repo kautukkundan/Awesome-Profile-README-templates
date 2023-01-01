@@ -78,3 +78,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=180&text=Bye%20👋&fontAlign=82&fontAlignY=75&color=gradient&section=footer&animation=fadeIn)
 
 <br><br>
+
+⭐️ From [HJ-Rich](https://github.com/HJ-Rich)
+
