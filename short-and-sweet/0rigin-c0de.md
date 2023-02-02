@@ -24,4 +24,4 @@
 ## 🥂 Cheers!
 ![Profile views](https://gpvc.arturio.dev/0rigin-c0de)
 
-⭐️ From [0rigin-c0de](https://github.com/0rigin-code)
+⭐️ From [0rigin-c0de](https://github.com/0rigin-c0de)
