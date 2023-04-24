@@ -20,9 +20,9 @@
     <p align="center"><img src="https://profile-counter.glitch.me/{mostafasaleh1}/count.svg"
             alt="mostafasaleh1 :: Visitor's Count" />
     </p>
-    
+<a href="https://mostafasaleh1.github.io/myprofile">
    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEiF2z6L8BPvRr2x9Pdni2E279y1jrRf7JY0ltRcdOuqF5cbLYzlmiYmrvsgzkVYHZG0HkivfKxanmdcr2vgWgEwayG_uCJtsvFw_ApjdVfvf2pqWeGtGlAdNGNxUQJGDC5Nbmsz0iGCG5mVchbytiIo1zZruvDpqIK2_xdN1mK_MOL-hJ7edJ3jz91Q/s1600/1%20circle.png" align="right" width="30%"/>
- 
+</a>
 <!--
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasaleh1&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="30%" />
 </a>
@@ -36,17 +36,23 @@
   
 ![mostafasaleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafasaleh1&show_icons=true&theme=radical&count_private=true)
 
-</div>   
+</div>
 <div align="left">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mostafasaleh1&theme=radical)](https://git.io/streak-stats)
 
 </div>
+<a href="https://codestats.net/users/mostafasaleh2015">
 
- <img src='https://codestats-readme.wegfan.cn/history-graph/mostafasaleh2015?width=900&height=350&timezone=02:00&history_days=21&max_languages=9&grid_color=dddddd&text_color=dddddd&zeroline_color=ababab&bg_color=141321&language_colors=["fe428e","00ff00","0000ff","ffff00","ff0000","00ffff","800000","008000","000080","808000"]' alt="Mostafa Saleh's Code::Stats history graph" align="center" />
+ <img src='https://codestats-readme.wegfan.cn/history-graph/mostafasaleh2015?width=900&height=350&timezone=02:00&history_days=21&max_languages=14&grid_color=dddddd&text_color=dddddd&zeroline_color=ababab&bg_color=141321&language_colors=["fe428e","00ff00","0000ff","ffff00","ff0000","00ffff","800000","008000","000080","808000","800080","008080","808080","c0c0c0"]' alt="Mostafa Saleh's Code::Stats history graph" align="center" />
+
+</a>
 
 </div>
 </div>
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
 </div>
 
 ⭐️ From [mostafasaleh1](https://github.com/mostafasaleh1)
