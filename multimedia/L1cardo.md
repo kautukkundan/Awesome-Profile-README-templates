@@ -4,9 +4,9 @@
 
 Hi there, I'm **Albert Abdilim**, a **medical student**.
 
-I am **[Uyghur](https://en.wikipedia.org/wiki/Uyghurs)**, which is a minority in China. Now I am studying medical imaging at **[HUST](http://english.hust.edu.cn/)**.
+0 I study computer science
 
-I love programming and I love Swift.
+I love Software Engineering and I love AI .
 
 ### Talking about Personal Stuffs:
 
