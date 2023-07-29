@@ -59,9 +59,6 @@ I'm an undergrad from NMIMS University. Passionate about Web development, Data s
   <img src="https://github.com/ekasnh/ekasnh/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-<!---
-ekasnh/ekasnh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐️ From [ekasnh](https://github.com/ekansh)
 
 
