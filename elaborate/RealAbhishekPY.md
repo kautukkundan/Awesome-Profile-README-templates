@@ -77,7 +77,7 @@ Hello! I'm Abhishek, a passionate DevOps Engineer with 3 years of experience in 
 ## Contact
 
 Feel free to reach out to me via LinkedIn or email for any inquiries or collaboration opportunities.
-- 📫 How to reach me : [linkedin](https://www.linkedin.com/in/abhishek-ambulkar-221634177) | [abhishekambulkar2017@gmail.com](abhishekambulkar2017@gmail.com)
+
 ---
 
 Thank you for visiting my portfolio! I look forward to connecting with you.
