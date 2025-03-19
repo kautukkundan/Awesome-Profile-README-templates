@@ -73,25 +73,6 @@ Hello! I'm Abhishek, a passionate DevOps Engineer with 3 years of experience in 
 - Monitoring and Performance Optimization
 - Security and Compliance
 
-## Experience
-
-### [Devops Engineer]
-**[Capgemini]** - [Pune]  
-*06/2022 - Present*
-
-- Designed and implemented CI/CD pipelines using Jenkins and GitHub Actions, reducing deployment time by X%.
-- Automated infrastructure provisioning and management using Terraform and Ansible.
-- Deployed and managed containerized applications using Docker and Kubernetes.
-- Monitored and optimized system performance using Prometheus and Grafana.
-- Collaborated with development teams to ensure seamless integration and delivery of applications.
-
-
-
-## Certifications
-
-- [Aws CCP] - [Amazon]
-- [Agile] - [University of minisotta-Udemy]
-
 ## Contact
 
 Feel free to reach out to me via LinkedIn or email for any inquiries or collaboration opportunities.
