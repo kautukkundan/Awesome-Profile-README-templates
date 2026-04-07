@@ -7,4 +7,4 @@ Feel free to add your own or someone else's profile README if you find it super 
 
 Don't forget to leave a if you find this repo useful ⭐
 
-Thankyou🎆
+Thank you 🎆
